@@ -1,0 +1,5 @@
+sentence = str(input("enter para"))
+list = list(sentence.split(" "))
+list.reverse()
+reverse = " ".join(list)
+print(reverse)
