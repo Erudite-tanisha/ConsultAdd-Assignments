@@ -1,0 +1,4 @@
+hello i am a file
+created to understand file handling
+in python
+thankyou.
